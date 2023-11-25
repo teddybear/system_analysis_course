@@ -1,0 +1,92 @@
+<mxfile host="Electron" modified="2023-11-18T19:23:15.941Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="gaP3DBAOxfKa6KzjzZjR" version="22.1.2" type="device">
+  <diagram name="Page-1" id="6-ypodGU4imuhWLOmmUE">
+    <mxGraphModel dx="1301" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wig7u1WO7MASWXM3mxRy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="wig7u1WO7MASWXM3mxRy-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="30" />
+              <mxPoint x="600" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-2" value="D: Заказ отменен&lt;br&gt;D: Заказ выполнен" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wig7u1WO7MASWXM3mxRy-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0073" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="wig7u1WO7MASWXM3mxRy-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSisjSJwLkDmyyiBKS7h-2" value="D: Запрошены расходники" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wig7u1WO7MASWXM3mxRy-3" vertex="1" connectable="0">
+          <mxGeometry x="0.2552" y="1" relative="1" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="wig7u1WO7MASWXM3mxRy-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSisjSJwLkDmyyiBKS7h-1" value="S: Заказ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wig7u1WO7MASWXM3mxRy-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.2583" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ps90P_jmlQ-kuzegIhGD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="-GNpE_ClzCmvl6oZTril-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="207" />
+              <mxPoint x="230" y="270" />
+              <mxPoint x="110" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ps90P_jmlQ-kuzegIhGD-2" value="S: Пул воркеров" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ps90P_jmlQ-kuzegIhGD-1">
+          <mxGeometry x="0.2977" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-5" value="Оказание услуг" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="80" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-6" value="Тотализатор" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="80" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-7" value="Бухгалтерия" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="80" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-9" target="wig7u1WO7MASWXM3mxRy-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XCZBwA6eG8tTzS6Fq9rE-1" value="D: Расходники готовы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wig7u1WO7MASWXM3mxRy-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.4267" y="-2" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-9" value="Расходники" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="320" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-10" value="Управление системой и контроль качества" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.454;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="wig7u1WO7MASWXM3mxRy-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="30" />
+              <mxPoint x="101" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wig7u1WO7MASWXM3mxRy-12" value="D: Заказ отменен&lt;br&gt;D: Заказ выполнен&lt;br&gt;D: Назначен воркер" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wig7u1WO7MASWXM3mxRy-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.0056" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-GNpE_ClzCmvl6oZTril-1" value="Онбординг воркера" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="320" width="200" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
