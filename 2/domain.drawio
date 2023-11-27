@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-25T21:09:41.821Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="Fbq2BfulpijiBDpppaLe" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-11-27T11:18:09.238Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="y6LPFRBkCuodhQ6TRvGL" version="22.1.2" type="device">
   <diagram name="Page-1" id="6-ypodGU4imuhWLOmmUE">
     <mxGraphModel dx="1886" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="fpALSdUo2TDQL6afOGSB-9" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="30" y="30" width="247.06" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="fpALSdUo2TDQL6afOGSB-3" value="Тотализатор&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E7BCD;" parent="fpALSdUo2TDQL6afOGSB-9" vertex="1">
+        <mxCell id="fpALSdUo2TDQL6afOGSB-3" value="Тотализаторная мотивация&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E7BCD;" parent="fpALSdUo2TDQL6afOGSB-9" vertex="1">
           <mxGeometry width="247.06" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wig7u1WO7MASWXM3mxRy-6" value="Ставки" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpALSdUo2TDQL6afOGSB-9" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="fpALSdUo2TDQL6afOGSB-12" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="370" y="320" width="247.05999999999995" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="fpALSdUo2TDQL6afOGSB-5" value="Расходники&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9e7bcd;" parent="fpALSdUo2TDQL6afOGSB-12" vertex="1">
+        <mxCell id="fpALSdUo2TDQL6afOGSB-5" value="Управление материалами&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9e7bcd;" parent="fpALSdUo2TDQL6afOGSB-12" vertex="1">
           <mxGeometry width="247.06" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wig7u1WO7MASWXM3mxRy-9" value="Отдел расходников" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpALSdUo2TDQL6afOGSB-12" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="fpALSdUo2TDQL6afOGSB-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="730" y="320" width="247.05999999999995" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="fpALSdUo2TDQL6afOGSB-7" value="Контроль качества&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E7BCD;" parent="fpALSdUo2TDQL6afOGSB-13" vertex="1">
+        <mxCell id="fpALSdUo2TDQL6afOGSB-7" value="Обеспечение клиентской удовлетворенности&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E7BCD;" parent="fpALSdUo2TDQL6afOGSB-13" vertex="1">
           <mxGeometry width="247.06" height="210" as="geometry" />
         </mxCell>
         <mxCell id="wig7u1WO7MASWXM3mxRy-10" value="Контроль&lt;br&gt;качества" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpALSdUo2TDQL6afOGSB-13" vertex="1">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WfRnK8JT0mF5gvrJXfV1-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="WfRnK8JT0mF5gvrJXfV1-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="20" y="320" width="247.06" height="210" as="geometry" />
         </mxCell>
         <mxCell id="fpALSdUo2TDQL6afOGSB-6" value="Устройство котом в MCF&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9E7BCD;" parent="WfRnK8JT0mF5gvrJXfV1-1" vertex="1">
