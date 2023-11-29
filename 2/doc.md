@@ -71,3 +71,7 @@
 # Итоговая модель системы
 
 ![Services](figures/services.drawio.png)
+
+# Кто дочитал молодец
+
+![ъуъ](figures/meme.jpg)
