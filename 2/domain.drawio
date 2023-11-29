@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-11-27T11:18:09.238Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="y6LPFRBkCuodhQ6TRvGL" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-11-29T08:08:31.426Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="qZBqeWAf2JGW4vvKwdGz" version="22.1.2" type="device">
   <diagram name="Page-1" id="6-ypodGU4imuhWLOmmUE">
     <mxGraphModel dx="1886" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="fpALSdUo2TDQL6afOGSB-8" value="Расчеты&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0a0a0;" parent="fpALSdUo2TDQL6afOGSB-14" vertex="1">
           <mxGeometry width="247.06" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="wig7u1WO7MASWXM3mxRy-7" value="Биллинг" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpALSdUo2TDQL6afOGSB-14" vertex="1">
+        <mxCell id="wig7u1WO7MASWXM3mxRy-7" value="Оплата услуг&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;и расчеты" style="rounded=1;whiteSpace=wrap;html=1;" parent="fpALSdUo2TDQL6afOGSB-14" vertex="1">
           <mxGeometry x="47.06" y="40" width="152.94" height="130" as="geometry" />
         </mxCell>
         <mxCell id="fpALSdUo2TDQL6afOGSB-15" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wig7u1WO7MASWXM3mxRy-5" target="wig7u1WO7MASWXM3mxRy-9" edge="1">
