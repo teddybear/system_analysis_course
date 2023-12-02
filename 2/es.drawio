@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-29T08:08:07.993Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="3YpLLMXlPeyqBF03MaBE" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-02T23:13:22.862Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="szIPnIfd-jLUrdV8YJ-O" version="22.1.2" type="device">
   <diagram name="Page-1" id="cu8HoAJBPppChcAsw30A">
-    <mxGraphModel dx="1257" dy="2367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="2723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
         <mxCell id="0N0rDKjKPEKVKHD4B6wy-34" value="Балансы обновлены" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="0N0rDKjKPEKVKHD4B6wy-41" vertex="1">
           <mxGeometry x="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0N0rDKjKPEKVKHD4B6wy-123" value="Оплата услуг&amp;nbsp;&lt;span style=&quot;font-weight: 400;&quot;&gt;и расчеты&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="0N0rDKjKPEKVKHD4B6wy-126" vertex="1">
+        <mxCell id="0N0rDKjKPEKVKHD4B6wy-123" value="Оказание услуг" style="swimlane;whiteSpace=wrap;html=1;" parent="0N0rDKjKPEKVKHD4B6wy-126" vertex="1">
           <mxGeometry width="690" height="400" as="geometry" />
         </mxCell>
         <mxCell id="HTqRLWnz5d8zxXwgNCST-4" value="здесь так же будут рассчеты скидок&lt;br&gt;для общей картины значения не имеет" style="rounded=0;whiteSpace=wrap;html=1;" parent="0N0rDKjKPEKVKHD4B6wy-123" vertex="1">
@@ -183,7 +183,7 @@
         <mxCell id="0N0rDKjKPEKVKHD4B6wy-55" value="Крон" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="0N0rDKjKPEKVKHD4B6wy-126" vertex="1">
           <mxGeometry x="40" y="226" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0N0rDKjKPEKVKHD4B6wy-128" value="Расходники" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="0N0rDKjKPEKVKHD4B6wy-128" value="Обеспечение расходниками" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="540" y="-590" width="1020" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0N0rDKjKPEKVKHD4B6wy-48" value="Печенье &lt;b&gt;fur-tune&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="0N0rDKjKPEKVKHD4B6wy-128" vertex="1">
